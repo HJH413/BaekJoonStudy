@@ -1,6 +1,7 @@
-package java220717;
-import java.util.Scanner;
+package java0717study1;
+
 //2022 07 17
+//https://www.acmicpc.net/step/1 입출력과 사칙연산
 public class Main {
     //1번 문제
 //    public static void main(String[] args) {
