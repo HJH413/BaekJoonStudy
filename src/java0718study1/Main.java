@@ -5,9 +5,11 @@ import java.util.Scanner;
 //알람시계
 public class Main {
     public static void main(String[] args) {
+
         Scanner scanner = new Scanner(System.in);
         int h = scanner.nextInt(); // 2
         int m = scanner.nextInt(); // 15
+
         if(m<45){ // 15
             h--; // 1
             m = 60-(45-m); // 30
